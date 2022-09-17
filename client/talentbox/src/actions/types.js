@@ -1,0 +1,1 @@
+export const GETALL_COURSES = 'GETALL_COURSES';
